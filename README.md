@@ -9,16 +9,16 @@ quick access to e-mails and GitHub profiles.
 ## Live Demonstration
 https://www.screencast.com/t/OK5kxalMFtmE
 
+![image](https://user-images.githubusercontent.com/60622571/79917818-4242f080-83f9-11ea-8c9f-c1949c16d4fe.png)
 
-Screen Shot 2020-04-21 at 4.37.30 PM.png
 
   
   ## Table of Contents
-  * [Installation]
-  * [Contributing]
-  * [Tests]
-  * [License]
-  * [Questions]
+  * [Installation](#Installation)
+  * [Contributing](#Contributing)
+  * [Tests](#Tests)
+  * [License](#License)
+  * [Questions](#Questions)
   
   ## Installation
   To run this application, npm install must be run from the command line first.  After running npm install,
