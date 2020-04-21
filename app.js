@@ -64,9 +64,9 @@ function manager() {
             choices: ['yes','no']
         }
     ]).then(function(answers) {
-        const newMember = new Manager(anwers.name, answers.id, anwers.email, answers.officeNumber)
+        const newMember = new Manager(answers.name, answers.id, answers.email, answers.officeNumber)
         teamArray.push(newMember)
-        if (anwers.addMember === 'yes') {
+        if (answers.addMember === 'yes') {
             buildTeam()
         }else {
             renderTeam()
@@ -152,7 +152,7 @@ function intern() {
     })
 }
 
-const renderTeam = () => {
+function renderTeam() {
     fs.writeFile(outputPath, render(teamArray), 'utf8', error => {
         if (error) {
             throw error
