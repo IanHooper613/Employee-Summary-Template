@@ -12,14 +12,14 @@ https://www.screencast.com/t/OK5kxalMFtmE
 
 
 ## Screenshot of application
-![image](https://user-images.githubusercontent.com/60622571/79917818-4242f080-83f9-11ea-8c9f-c1949c16d4fe.png)
-  
+![image](https://user-images.githubusercontent.com/60622571/79917818-4242f080-83f9-11ea-8c9f-c1949c16d4fe.png)  
   ## Table of Contents
   * [Installation](#Installation)
   * [Contributing](#Contributing)
   * [Tests](#Tests)
   * [License](#License)
   * [Questions](#Questions)
+
 
   
   ## Installation
@@ -32,9 +32,11 @@ https://www.screencast.com/t/OK5kxalMFtmE
   npm install jest
   
 
+
   ## Contributing
   If you would like to contribute any ideas to this application, feel free to reach out to me at my GitHub
   profile of: ianhooper613
+
 
 
   ## Tests
@@ -43,8 +45,10 @@ https://www.screencast.com/t/OK5kxalMFtmE
   npm run test
 
 
+
   ## License
   Currently there are not any licenses for this application.  We hope to have a license in the near future.
+
 
 
   ## Questions
